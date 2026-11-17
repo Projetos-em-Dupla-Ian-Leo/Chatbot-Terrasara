@@ -3,3 +3,5 @@
 *.db
 __pycache__/
 .pytest_cache/
+n8n/*
+!n8n/.gitkeep
